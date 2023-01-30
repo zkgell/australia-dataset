@@ -226,6 +226,13 @@
       <Point>UGTUG</Point>
       <Point>IRTED</Point>
     </Symbol>
+    <!--30nm Sequencing Marks-->
+    <Symbol Type="Circle">
+      <Point>-273659.3481+1531331.9995</Point>
+      <Point>-274717.0819+1531131.095</Point>
+      <Point>-272608.0511+1525809.4775</Point>
+      <Point>-272510.4416+1525132.5964</Point>
+    </Symbol>
     <!--(BN) RWY01PROPS Airspace-->
     <Line Width="1.7" Pattern="Dotted">
 -265424.516+1525512.931/-271339.910+1525845.740/-271938.830+1530043.300/-272259.231+1530624.529/-272412.172+1530704.463/-274741.180+1532918.699</Line>

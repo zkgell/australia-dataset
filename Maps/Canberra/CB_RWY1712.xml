@@ -177,6 +177,12 @@
       <Point>BARTN</Point>
       <Point>RAZZI</Point>
     </Symbol>
+    <!--30nm Sequencing Marks-->
+    <Symbol Type="Circle">
+      <Point>-350334.0686+1493735.0537</Point>
+      <Point>-350037.9303+1493631.6626</Point>
+      <Point>-351100.0723+1484841.3196</Point>
+    </Symbol>
   </Map>
   <Map Type="System" Name="CB_RWY1712_NAMES" Priority="2" Center="-35.306944+149.195000">
     <Label>

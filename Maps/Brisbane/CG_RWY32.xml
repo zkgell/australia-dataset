@@ -65,6 +65,12 @@
       TENIP/
       ATKEN
     </Line>
+    <!--30NM Sequencing Marks-->
+    <Symbol Type="Circle">
+      <Point>-282302.2174+1540006.6467</Point>
+      <Point>-282507.029+1535531.9885</Point>
+      <Point>-283709.0298+1533345.2747</Point>
+    </Symbol>
     <Symbol Type="HollowTriangle">
       <Point>FIKUL</Point>
       <Point>JAAPI</Point>

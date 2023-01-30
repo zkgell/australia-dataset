@@ -212,6 +212,13 @@
       <Point>RAZZI</Point>
       <Point>SLICK</Point>
     </Symbol>
+    <!--30nm Sequencing Mark-->
+    <Symbol Type="Circle">
+      <Point>-352453.8934+1492536.1633</Point>
+      <Point>-352617.6367+1492745.1428</Point>
+      <Point>-352714.3811+1490118.1677</Point>
+      <Point>-353901.4337+1485322.5696</Point>
+    </Symbol>
   </Map>
   <Map Type="System" Name="CB_RWY3530_NAMES" Priority="2" Center="-35.306944+149.195000">
     <Label>

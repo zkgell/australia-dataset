@@ -232,6 +232,18 @@
       <Point>ZANEY</Point>
       <Point>IGMOL</Point>
     </Symbol>
+    <!--30nm Sequencing Marks-->
+    <Symbol Type="Circle">
+      <Point>-164603.1439+1455603.8489</Point>
+      <Point>-170811.803+1460041.5283</Point>
+      <Point>-171306.9164+1460236.0608</Point>
+      <Point>-172105.4602+1455233.0212</Point>
+      <Point>-171931.7331+1454904.0063</Point>
+      <Point>-171300.6816+1453736.3171</Point>
+      <Point>-171453.676+1453652.9211</Point>
+      <Point>-171603.4048+1453811.2537</Point>
+      <Point>-171601.805+1453910.5249</Point>
+    </Symbol>
     <!--(CS) RWY33 Airspace-->
     <Line Width="1.7" Pattern="Dotted">
 -172451.768+1455734.919/-165254.000+1454503.000/-164023.000+1453919.000/-161951.383+1452554.480</Line>

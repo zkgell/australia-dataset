@@ -244,6 +244,15 @@
       <Point>ATVON</Point>
       <Point>TEGIL</Point>
     </Symbol>
+    <!--30NM Sequencing Marks-->
+    <Symbol Type="Circle">
+      <Point>-270210.4558+1530048.5596</Point>
+      <Point>-270446.4822+1525925.1733</Point>
+      <Point>-270749.027+1525922.9211</Point>
+      <Point>-270449.8399+1533137.8882</Point>
+      <Point>-271354.9129+1532916.1096</Point>
+      <Point>-271548.9166+1532247.0837</Point>
+    </Symbol>
     <!--(BN) RWY19PROPS Airspace-->
     <Line Width="1.7" Pattern="Dotted">
 -272311.460+1534205.560/-272146.616+1532914.160/-273805.056+1532806.763/-274729.398+1533006.351</Line>

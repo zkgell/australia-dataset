@@ -367,6 +367,15 @@
       <Point>SURGN</Point>
       <Point>GRIGS</Point>
     </Symbol>
+    <!--30NM Sequencing Marks-->
+    <Symbol Type="Circle">
+      <Point>-350149.0118+1390143.1616</Point>
+      <Point>-344701.5637+1390510.5835</Point>
+      <Point>-343120.2414+1383450.3687</Point>
+      <Point>-343128.7146+1383352.7454</Point>
+      <Point>-344748.1046+1383014.8865</Point>
+      <Point>-344817.7264+1383015.1062</Point>
+    </Symbol>
   </Map>
   <Map Type="System" Name="AD_RWY23_NAMES" Priority="2" Center="-34.945000+138.530556">
     <Label>
